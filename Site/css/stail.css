@@ -3,7 +3,7 @@
   box-sizing:border-box;
 }
 body{
-  font-family: Helvetica;
+  font-family: myfont, Montserrat,sans-serif;
 }
 @font-face {
   font-family: myfont;
